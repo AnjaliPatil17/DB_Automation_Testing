@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="045fe5d7-b3d4-4640-8986-f4a114bbd1ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DB_Automation/DB_Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DB_Automation/DB_Curd_Operation.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2kdiOGGeYdAemy2mp8FD5YLL8jK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.DB_Curd_Operation.CreateTable.executor": "Run",
+    "TestNG.DB_Curd_Operation.InsertData.executor": "Run",
+    "TestNG.DB_Curd_Operation.ReadData.executor": "Run",
+    "TestNG.DB_Curd_Operation.ReadDataTest.executor": "Run",
+    "TestNG.DB_Curd_Operation.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.DB_Curd_Operation">
+    <configuration name="DB_Curd_Operation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DB_Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DB_Automation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DB_Automation" />
+      <option name="MAIN_CLASS_NAME" value="DB_Automation.DB_Curd_Operation" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DB_Curd_Operation.CreateTable" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DB_Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DB_Automation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DB_Automation" />
+      <option name="MAIN_CLASS_NAME" value="DB_Automation.DB_Curd_Operation" />
+      <option name="METHOD_NAME" value="CreateTable" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DB_Curd_Operation.InsertData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DB_Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DB_Automation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DB_Automation" />
+      <option name="MAIN_CLASS_NAME" value="DB_Automation.DB_Curd_Operation" />
+      <option name="METHOD_NAME" value="InsertData" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DB_Curd_Operation.ReadData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DB_Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DB_Automation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DB_Automation" />
+      <option name="MAIN_CLASS_NAME" value="DB_Automation.DB_Curd_Operation" />
+      <option name="METHOD_NAME" value="ReadData" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DB_Curd_Operation.ReadDataTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DB_Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DB_Automation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DB_Automation" />
+      <option name="MAIN_CLASS_NAME" value="DB_Automation.DB_Curd_Operation" />
+      <option name="METHOD_NAME" value="ReadDataTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DB_Curd_Operation" />
+        <item itemvalue="TestNG.DB_Curd_Operation.ReadData" />
+        <item itemvalue="TestNG.DB_Curd_Operation.InsertData" />
+        <item itemvalue="TestNG.DB_Curd_Operation.CreateTable" />
+        <item itemvalue="TestNG.DB_Curd_Operation.ReadDataTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="045fe5d7-b3d4-4640-8986-f4a114bbd1ef" name="Changes" comment="" />
+      <created>1723619822614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723619822614</updated>
+    </task>
+    <servers />
+  </component>
+</project>
